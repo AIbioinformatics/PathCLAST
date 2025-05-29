@@ -15,7 +15,7 @@ Please ensure that all the libraries below are successfully installed:
 <h2 class="Datasets">Datasets</h2>
 <ul class="Datasets">
   <li><a href="https://www.10xgenomics.com/datasets/human-breast-cancer-block-a-section-2-1-standard-1-1-0" target="_blank" rel="noopener">
-  Human Breast Cancer Block A Section 2 (IDC)
+  Human Breast Cancer Block A Section 1 (IDC)
 </a></li>
   <li><a href="https://github.com/almaan/her2st" target="_blank" rel="noopener">
   Human HER2-positive breast tumor (Her2st)
