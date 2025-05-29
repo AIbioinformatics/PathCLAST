@@ -18,7 +18,7 @@ Please ensure that all the libraries below are successfully installed:
   Human Breast Cancer Block A Section 1 (IDC)
 </a></li>
   <li><a href="https://github.com/almaan/her2st" target="_blank" rel="noopener">
-  Human HER2-positive breast tumor (Her2st)
+  Human HER2-positive breast tumor (Her2ST)
 </a></li>
   </a></li>
   <li><a href="http://research.libd.org/spatialLIBD/" target="_blank" rel="noopener">
